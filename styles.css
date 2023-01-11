@@ -31,7 +31,7 @@ a{
     width:50px;
     height:auto;
 }
-.fart{
+.fartGun{
     width:50%;
     height:auto;
 }
@@ -53,7 +53,7 @@ p{
     gap:36px;
     justify-content:space-around;
 }
-.howto{
+.abilityPics{
     display:flex;
     gap:24px;
     justify-content:center;
@@ -68,12 +68,12 @@ p{
     width:100px;
     height:auto;
 }
-.meed{
+.abilities{
     text-align: center;
     font-weight: 700;
     font-size: 24px;
 }
-.bot{
+.bottom{
     background-color:#e5e7eb;
     display:flex;
     justify-content: center;
@@ -81,11 +81,11 @@ p{
 }
 .top,
 .mid,
-.bot,
-.adc{
+.bottom,
+.websiteBox{
     height:300px;
 }
-.adc{
+.websiteBox{
     background-color: #3882f6;
     margin:150px;
     border-radius:12px;
@@ -94,13 +94,13 @@ p{
     align-items:center;
     justify-content:space-around;
 }
-.bogs,
+.quote,
 .stuf{
     display:flex;
     flex-direction: column;
     text-align:center;
 }
-.bruh{
+.author{
     align-self:flex-end;
 }
 .footer{
@@ -111,7 +111,7 @@ p{
     justify-content: center;
     align-items: center;
 }
-.sus{
+.link{
     border-color:white;
     border-style:solid;
     border-radius:2px;
