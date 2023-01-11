@@ -95,13 +95,17 @@ p{
     justify-content:space-around;
 }
 .quote,
-.stuf{
+.inside{
     display:flex;
     flex-direction: column;
     text-align:center;
 }
+.quote p{
+    width:300px;
+}
 .author{
     align-self:flex-end;
+    text-align:right;
 }
 .footer{
     height:40px;
